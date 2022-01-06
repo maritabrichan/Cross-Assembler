@@ -1,16 +1,16 @@
 # Cross-Assembler
 
-## Project Done by 
+### Project Done by 
 
-### Yushan Yang 
-### Maya McRae
-### Mohona Mazumdar
-### Jasmine Lebel
-### Marita Brichan 
-### Gechen Ma
-### Tarun Elango
-### Aida Kordi
-### Yu Fei Xiang
+Yushan Yang 
+Maya McRae
+Mohona Mazumdar
+Jasmine Lebel
+Marita Brichan 
+Gechen Ma
+Tarun Elango
+Aida Kordi
+Yu Fei Xiang
 
 
 ## Project Description
@@ -19,4 +19,4 @@ The purpose of this project is to construct, using the Java programming language
 
 A cross-assembler is a software system composed of help, verbose, and listing options. It generates a source listing and a label table after pass 1, and it generates errors that do not follow EBNF grammar. In total, an assembler will make two passes. In the first pass, the assembly language code will be traversed by the assembler in order to generate the instructions, such as the mnemonics, labels, operands, etc., that will comprise the machine learning code. Furthermore, the assembler will generate a symbol table, where a label will be related to an offset within a particular instruction, will generate any offset that can be resolved, and will complete the first pass by indicating any offsets that will need to be resolved in pass 2. In the second pass, the assembler will then traverse the sequence of instructions in order to set any non-resolved offsets.
 
-## Please refer to the project report for more information
+### Please refer to the project report for more information
