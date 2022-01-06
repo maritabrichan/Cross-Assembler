@@ -2,15 +2,15 @@
 
 ### Project Done by 
 
-Yushan Yang 
-Maya McRae
-Mohona Mazumdar
-Jasmine Lebel
-Marita Brichan 
-Gechen Ma
-Tarun Elango
-Aida Kordi
-Yu Fei Xiang
+Yushan Yang <br/>
+Maya McRae <br/>
+Mohona Mazumdar <br/>
+Jasmine Lebel <br/>
+Marita Brichan <br/>
+Gechen Ma <br/>
+Tarun Elango <br/>
+Aida Kordi <br/>
+Yu Fei Xiang <br/>
 
 
 ## Project Description
