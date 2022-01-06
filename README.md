@@ -2,11 +2,11 @@
 
 ### Project Done by 
 
+Marita Brichan <br/>
 Yushan Yang <br/>
 Maya McRae <br/>
 Mohona Mazumdar <br/>
 Jasmine Lebel <br/>
-Marita Brichan <br/>
 Gechen Ma <br/>
 Tarun Elango <br/>
 Aida Kordi <br/>
